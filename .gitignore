@@ -1,0 +1,25 @@
+# Node
+frontend/node_modules/
+frontend/dist/
+frontend/build/
+frontend/.eslintcache
+
+# Python
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+backend/venv/
+backend/.pytest_cache/
+backend/.mypy_cache/
+
+# Local cache & data
+backend/cache/
+*.db
+*.sqlite3
+
+# IDEs and System files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

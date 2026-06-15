@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+sqlalchemy
+pymysql
+pydantic-settings
+pydantic
+passlib
+bcrypt
+cryptography
+celery
+redis
